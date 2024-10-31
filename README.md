@@ -1,16 +1,24 @@
-# MyApp
+# Example headings
 
-This is my app
+## Sample Section
 
-## Header 2
+## This'll  be a _Helpful_ Section About the Greek Letter Θ!
+A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
 
->That is quote
+## This heading is not unique in the file
 
-### Header 3
+TEXT 1
 
-```
-some code
-wfrtvcre
-wedrfv
-```
-#### Header 4
+## This heading is not unique in the file
+
+TEXT 2
+
+# Links to the example headings above
+
+Link to the sample section: [Link Text](#sample-section).
+
+Link to the helpful section: [Link Text](#thisll--be-a-helpful-section-about-the-greek-letter-Θ).
+
+Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
+
+Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
