@@ -39,7 +39,7 @@ approach to the tasks performed.
 
 ## Work experience:
 
-RSPC Cardiology 2024 - still working. (electronics engineer)
+RSPC Cardiology 2023 - still working. (electronics engineer)
 
 ## Education:
 
